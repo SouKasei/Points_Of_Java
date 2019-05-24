@@ -1,4 +1,4 @@
-# Points_Of_Java
+# Points_of_Java
 ## Lots of Points of Java
 ***
 ***
