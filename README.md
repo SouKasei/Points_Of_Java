@@ -7,5 +7,5 @@
 
 >> <table><tr><td bgcolor=#7FFFD4>  2019-06-03 新增部分文档资料 - ( 文件夹 - [ 文档资料 ] )  </td></tr></table>
 
->> <table><tr><td bgcolor=#7FFFD4>  持续更新中 … …  </td></tr></table>
+>> <table><tr><td bgcolor=#7FFFD4>  持续更新 ……  </td></tr></table>
 
