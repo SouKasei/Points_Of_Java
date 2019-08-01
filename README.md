@@ -1,4 +1,4 @@
-# Points_of_Java
+# Points of Java
 ***
 * 本仓库用来整理Java资料，通过 [ 文件夹 ] 进行分类管理。 持续更新。
 ***
